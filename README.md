@@ -1,4 +1,5 @@
 # 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=fahad-6sensehq&icon=0&color=0)](https://visitcount.itsvg.in)
 I’m currently working at 6sense Technologies<br>Ask me about C++,  JavaScript, TypeScript, Python<br>Additonaly React, Redux, NextJS, NodeJS, MySQL, MongoDB<br>How to reach me fahad@6sensehq.com<br>Favourite Pastime Movies, Music, and Memes
 
 
@@ -13,8 +14,5 @@ I’m currently working at 6sense Technologies<br>Ask me about C++,  JavaScript,
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fahad-6sensehq&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=fahad-6sensehq&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
