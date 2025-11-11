@@ -1,7 +1,7 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=fahad-6sensehq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I’m currently working at 6sense Technologies<br>Ask me about C++,  JavaScript, TypeScript, Python<br>Additonaly React, Redux, NextJS, NodeJS, MySQL, MongoDB<br>How to reach me fahad@6sensehq.com<br>Favourite Pastime Movies, Music, and Memes
+I’m currently working at 6sense Technologies<br>Ask me about C++, JavaScript, TypeScript, Python, Postgres, MongoDB, Redis, RabbitMQ<br>Additonaly React, Redux, NextJS, NodeJS, AWS (ECS, RDS, ECR, SQS, S3 etc)<br>Currently learning GoLang (Go)<br>How to reach me fahad@6sensehq.com<br>Favourite Pastime Movies, Music, and Memes
 
 
 ## 🌐 Socials:
@@ -17,3 +17,4 @@ I’m currently working at 6sense Technologies<br>Ask me about C++,  JavaScript,
 ![](https://github-contributor-stats.vercel.app/api?username=fahad-6sensehq&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
